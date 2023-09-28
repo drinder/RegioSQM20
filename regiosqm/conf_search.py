@@ -18,10 +18,10 @@ OMP_NUM_THREADS = '1'
 MKL_NUM_THREADS = '1'
 
 # xTB path
-XTBHOME = '/home/Ree/anaconda/envs/rdkit-env'
-XTBPATH = '/home/Ree/anaconda/envs/rdkit-env/share/xtb'
-MANPATH = '/home/Ree/anaconda/envs/rdkit-env/share/man'
-LD_LIBRARY_PATH = '/home/Ree/anaconda/envs/rdkit-env/lib'
+XTBHOME = '/Users/danielrinder/Documents/RegioSQM20/venv'
+XTBPATH = '/Users/danielrinder/Documents/RegioSQM20/venv/share/xtb'
+MANPATH = '/Users/danielrinder/Documents/RegioSQM20/venv/share/man'
+LD_LIBRARY_PATH = '/Users/danielrinder/Documents/RegioSQM20/venv/lib'
 
 
 def run_xTB(xtb_args):
